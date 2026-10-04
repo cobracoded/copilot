@@ -1,7 +1,6 @@
 {
   "name": "iam-copilot",
   "description": "A lightweight javascript NPM package written in typescript to be companion for the Node applications",
-  "type": "module",
   "version": "1.4.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
