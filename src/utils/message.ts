@@ -1,4 +1,4 @@
-import { ObjectOfString } from "../types";
+import { ObjectOfString } from "../types.js";
 
 export const message: ObjectOfString = {
   successful: "successful",

@@ -1,6 +1,6 @@
 import morgan from "morgan";
 import { createLogger, format, transports, addColors } from "winston";
-import { Formatter } from "../types";
+import { Formatter } from "../types.js";
 
 const { combine, colorize, timestamp, errors, printf, splat, metadata } =
   format;
